@@ -1,0 +1,7 @@
+name = input("Enter your name : ")
+roll = int(input("Enter your roll number : "))
+cgpa = float(input("Enter your cgpa :"))
+print("\n----- STUDENT PROFILE -----")
+print(f"Name :{name}")
+print(f"Roll number :{roll}")
+print(f"CGPA :{cgpa}")
